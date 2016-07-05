@@ -1,0 +1,9 @@
+---
+- hosts: local
+  remote_user: root
+  tasks:
+   - name: Install tree
+     apt: pkg=tree state=installed update_cache=true
+#   - name: Remove tree
+#     apt: pkg=tree state=absent update_cache=false
+
