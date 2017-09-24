@@ -5,7 +5,7 @@
 
 	<groupId>ejpd-zemis</groupId>
 	<artifactId>ejpd-zemis-jenkins-job-creator</artifactId>
-	<version>10.1.1-SNAPSHOT</version>
+	<version>10.1.1</version>
 	<packaging>jar</packaging>
 
 	<name>ejpd-zemis-jenkins-job-creator</name>
